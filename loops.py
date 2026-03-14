@@ -62,3 +62,21 @@ for val in num:
         print("finding...")
         ind += 1
 print("loop ended")
+
+
+
+# find the index of x in num
+
+num = (1,4,9,16,25,36,49,64,81,100,36)
+x = int(input("search:"))
+ind = 0
+
+for val in num:
+    if (num[ind] == x):
+        print("found at",ind)
+        ind += 1
+        break
+    else :
+        print("finding...")
+        ind += 1
+print("loop ended")
