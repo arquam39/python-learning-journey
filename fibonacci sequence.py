@@ -12,7 +12,7 @@ for i in range (12):
 # fibonacci sequence by while loop
 a = 0
 b = 1
-
+ 
 while a <= 100:
      print(a, end=" ")
      next_term = a+b
