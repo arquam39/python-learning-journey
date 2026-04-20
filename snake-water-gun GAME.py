@@ -2,7 +2,7 @@
 
 import random
 comp = random.randint(0,2)
-
+ 
 user = int(input("Enter 0 for Snake , 1 for Water and 2 for Gun: "))
 
 def check (comp,user):
