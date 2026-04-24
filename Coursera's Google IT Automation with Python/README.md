@@ -1,17 +1,21 @@
-# Google ID Automation using Python
+# Google IT Automation with Python
 
-This project automates tasks related to Google account handling using Python.  
-It is part of my practical learning in automation and scripting.
+This folder contains my work from the Google IT Automation with Python course on Coursera.
 
-## 🚀 Features
-- Automates browser actions
-- Handles form filling
-- Simulates user interactions
-- Can be extended for login/signup workflows
+## 📚 What I'm Learning
+- Python scripting
+- Automating tasks
+- Working with files and OS
+- Git & GitHub
+- Debugging and testing
 
-## 🛠️ Technologies Used
-- Python
-- Selenium (or mention what you're using)
-- WebDriver
+## 📁 Contents
+- Course-wise exercises
+- Practice scripts
+- Mini projects
 
-## 📁 Project Structure
+## 🎯 Goal
+To build strong automation skills and apply them in real-world projects.
+
+## 👨‍💻 Author
+Arqam Ali
